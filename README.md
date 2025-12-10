@@ -19,6 +19,8 @@ Create a folder on your Desktop
 Open terminal inside that folder and run:
 
 git clone : https://github.com/jyothi4218/Customer_Churn.git
+
+
 cd Customer_Churn
 
 2️⃣ Create a Virtual Environment (Windows)
